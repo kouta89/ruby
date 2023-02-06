@@ -1,0 +1,2 @@
+voiceroid = :ずんだもん
+puts voiceroid
